@@ -11,4 +11,5 @@ int MyClass::getX() {
   return x; 
 }
 
-///
+///////
+//
